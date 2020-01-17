@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+   <title>Document</title>
+   <style>
+       .box1, .box2{
+           width:100px;
+           height: 100px;
+           padding: 40px;
+           background-color: darkorange;
+           border:10px solid  gold;
+           margin: 20px;
+       }
+       .box1{
+           box-sizing: content-box;  /* 元素的真实宽度 = width + padding + border */
+       }
+       .box2{
+           box-sizing: border-box;  /* padding 和 border的值是包含在width内 */
+       }
+  </style>
+</head>
+<body>
+    <div class="box1"></div>
+    <div class="box2"></div>
+</body>
+</html>

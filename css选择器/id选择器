@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+   <title>Document</title>
+   <style>
+   #www{
+       color:gold;
+       font-size30px;
+   }
+   #ppp{
+       color:green;
+       font-size: 20px;
+       
+
+   }
+   #ooo
+   {
+       color: hotpink;
+   }
+   </style>
+</head>
+<body>
+    <h2 id="www">浑身发着光</h2>
+    <h2 id="ppp">浑身发着光</h2>
+    <p id="ooo">一天到晚哼哼哈哈</p>
+    <p id="Ooo">一天到晚哼哼哈哈</p>
+</body>
+</html>

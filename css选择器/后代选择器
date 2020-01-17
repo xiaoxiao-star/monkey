@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html >
+<head>
+    <meta charset="UTF-8">
+  <title>Document</title>
+  <style>
+  .son1 h2{
+      color: hotpink;
+  }
+  </style>
+</head>
+<body>
+    <h2>本宝宝是老子</h2>
+    <div class="son1">
+        <h2>本宝宝是儿子</h2>
+        <div class="son2">
+          <h2>我是大孙子</h2>
+        </div>
+    </div>
+</body>
+</html>

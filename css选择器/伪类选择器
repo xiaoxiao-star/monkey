@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html >
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style>
+    a:link{color:black;}
+    a:visited{color:blue;}
+    a:hover{color:green;}
+    a:active{color:red}
+
+    p:first-child{
+        color:firebrick
+    }
+    </style>
+</head>
+<body>
+    <p>I am a <em>strong</em> man. I am a <em>strong</em> man.</p>
+    <p>I am a <em>strong</em> man. I am a <em>strong</em> man.</p>
+   <a href="https://hao.360.com/?src=bm" target="_blank">360网站网址大全</a>
+   <a href="http://www.cctv.com/" target="_blank">央视网</a>
+</body>
+</html>

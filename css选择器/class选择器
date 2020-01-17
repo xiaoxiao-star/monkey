@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style>
+    .xx{
+        color: red;
+        font-size: 30px;
+    }
+    .qq{
+        color: green;
+        font-size: 50px;
+    }
+    .red{
+        color: red;
+    }
+    .green{
+        color: green;
+    }
+    .f30{
+        font-size: 30px;
+    }
+    .f50{
+        font-size: 50px;
+    }
+    </style>
+</head>
+<body>
+    <h1 class="xx">我们敲的不是代码，是自由</h1>
+    <h1 class="qq">我们敲的不是代码，是自由</h1>
+
+    <h1 class="red f30">我们敲的不是代码，是自由</h1>
+    <h1 class="green f50">我们敲的不是代码，是自由</h1>
+
+    <h1 class="red f50">我们敲的不是代码，是自由</h1>
+    <h1 class="green g30">我们敲的不是代码，是自由</h1>    
+
+</body>
+</html>
